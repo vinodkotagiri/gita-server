@@ -1,0 +1,23 @@
+{
+  "name": "gita-v1",
+  "version": "1.0.0",
+  "description": "An API service for bagavatgita in telugu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gita",
+    "telugu",
+    "bagavatgita"
+  ],
+  "author": "vinod kotagiri <vinodkotagiri@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "morgan": "^1.10.0"
+  }
+}
